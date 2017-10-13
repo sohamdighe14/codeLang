@@ -1,0 +1,6 @@
+@startuml
+(Delhi) -> (Mumbai)
+(Mumbai) -> (Chennai)
+(Delhi) -> (Chennai)
+(Mumbai) -> (California)
+@enduml

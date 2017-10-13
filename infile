@@ -1,0 +1,6 @@
+graph { 
+ from a to b 
+ from c to d 
+ from b to c
+ from a to asd 
+ }
